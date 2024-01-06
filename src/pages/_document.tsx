@@ -9,7 +9,7 @@ class MyDocument extends Document {
           <meta name="theme-color" content="#000000" />
           <link
             rel="stylesheet"
-            href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@300;400;500&display=swap"
+            href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500&display=swap"
           />
         </Head>
         <body>
